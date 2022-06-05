@@ -1,3 +1,4 @@
+[app-examples-main.zip](https://github.com/mdn/content/files/8839166/app-examples-main.zip)
 ---
 title: Type
 slug: Glossary/Type
